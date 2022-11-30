@@ -9,7 +9,7 @@ const title = document.querySelector('#title');
 const cover = document.querySelector('#cover');
 
 //Title của nhạc
-const songs = ['Music1', 'Music2', 'Music3'];
+const songs = ['Music1', 'Music2', 'Music3', 'Music4', 'Music5'];
 let songIndex = 2;
 
 //Detail nhạc (tên, ảnh các thứ)
